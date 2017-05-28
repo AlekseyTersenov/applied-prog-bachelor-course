@@ -1,0 +1,24 @@
+C:\Users\Admin\Desktop\учеба\ооп\Консольное\Консольное\bin\Debug\Консольное.exe.config
+C:\Users\Admin\Desktop\учеба\ооп\Консольное\Консольное\obj\Debug\Консольное.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Desktop\учеба\ооп\Консольное\Консольное\bin\Debug\Консольное.exe
+C:\Users\Admin\Desktop\учеба\ооп\Консольное\Консольное\bin\Debug\Консольное.pdb
+C:\Users\Admin\Desktop\учеба\ооп\Консольное\Консольное\obj\Debug\Консольное.exe
+C:\Users\Admin\Desktop\учеба\ооп\Консольное\Консольное\obj\Debug\Консольное.pdb
+E:\Прикладное программирование\лаба2\Консольное\bin\Debug\Консольное.exe.config
+E:\Прикладное программирование\лаба2\Консольное\bin\Debug\Консольное.exe
+E:\Прикладное программирование\лаба2\Консольное\bin\Debug\Консольное.pdb
+E:\Прикладное программирование\лаба2\Консольное\obj\Debug\Консольное.csprojResolveAssemblyReference.cache
+E:\Прикладное программирование\лаба2\Консольное\obj\Debug\Консольное.exe
+E:\Прикладное программирование\лаба2\Консольное\obj\Debug\Консольное.pdb
+C:\Users\User\Desktop\лаба2\Консольное\bin\Debug\Консольное.exe.config
+C:\Users\User\Desktop\лаба2\Консольное\obj\Debug\Консольное.exe
+C:\Users\User\Desktop\лаба2\Консольное\obj\Debug\Консольное.pdb
+C:\Users\Alexander.Idiatov\Desktop\лаба2(mod)\Консольное\bin\Debug\Консольное.exe.config
+C:\Users\Alexander.Idiatov\Desktop\лаба2(mod)\Консольное\obj\Debug\Консольное.exe
+C:\Users\Alexander.Idiatov\Desktop\лаба2(mod)\Консольное\obj\Debug\Консольное.pdb
+E:\Прикладное программирование\лаба2(mod2)\Консольное\bin\Debug\Консольное.exe.config
+E:\Прикладное программирование\лаба2(mod2)\Консольное\bin\Debug\Консольное.exe
+E:\Прикладное программирование\лаба2(mod2)\Консольное\bin\Debug\Консольное.pdb
+E:\Прикладное программирование\лаба2(mod2)\Консольное\obj\Debug\Консольное.csprojResolveAssemblyReference.cache
+E:\Прикладное программирование\лаба2(mod2)\Консольное\obj\Debug\Консольное.exe
+E:\Прикладное программирование\лаба2(mod2)\Консольное\obj\Debug\Консольное.pdb

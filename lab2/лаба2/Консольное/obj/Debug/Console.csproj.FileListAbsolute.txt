@@ -1,0 +1,6 @@
+C:\Users\Irina.Sedakova\Desktop\лаба2(mod2)\Консольное\obj\Debug\Console.csprojResolveAssemblyReference.cache
+C:\Users\Irina.Sedakova\Desktop\лаба2(mod2)\Консольное\obj\Debug\Консольное.exe
+C:\Users\Irina.Sedakova\Desktop\лаба2(mod2)\Консольное\obj\Debug\Консольное.pdb
+C:\Users\Irina.Sedakova\Desktop\лаба2(mod2)\Консольное\bin\Debug\Консольное.exe.config
+C:\Users\Irina.Sedakova\Desktop\лаба2(mod2)\Консольное\bin\Debug\Консольное.exe
+C:\Users\Irina.Sedakova\Desktop\лаба2(mod2)\Консольное\bin\Debug\Консольное.pdb

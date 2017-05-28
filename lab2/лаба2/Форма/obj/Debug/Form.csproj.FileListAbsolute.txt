@@ -1,0 +1,12 @@
+C:\Users\Irina.Sedakova\Desktop\лаба2(mod2)\Форма\bin\Debug\Форма.exe.config
+C:\Users\Irina.Sedakova\Desktop\лаба2(mod2)\Форма\bin\Debug\Форма.exe
+C:\Users\Irina.Sedakova\Desktop\лаба2(mod2)\Форма\bin\Debug\Форма.pdb
+C:\Users\Irina.Sedakova\Desktop\лаба2(mod2)\Форма\obj\Debug\Form.csprojResolveAssemblyReference.cache
+C:\Users\Irina.Sedakova\Desktop\лаба2(mod2)\Форма\obj\Debug\Форма.Form1.resources
+C:\Users\Irina.Sedakova\Desktop\лаба2(mod2)\Форма\obj\Debug\Форма.Properties.Resources.resources
+C:\Users\Irina.Sedakova\Desktop\лаба2(mod2)\Форма\obj\Debug\Form.csproj.GenerateResource.Cache
+C:\Users\Irina.Sedakova\Desktop\лаба2(mod2)\Форма\obj\Debug\Форма.exe
+C:\Users\Irina.Sedakova\Desktop\лаба2(mod2)\Форма\obj\Debug\Форма.pdb
+E:\лаба2(mod2)\Форма\bin\Debug\Форма.exe.config
+E:\лаба2(mod2)\Форма\obj\Debug\Форма.exe
+E:\лаба2(mod2)\Форма\obj\Debug\Форма.pdb

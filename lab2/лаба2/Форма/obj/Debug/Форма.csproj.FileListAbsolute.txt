@@ -1,0 +1,54 @@
+C:\Users\Admin\Desktop\учеба\ооп\Консольное\Форма\bin\Debug\Форма.exe.config
+C:\Users\Admin\Desktop\учеба\ооп\Консольное\Форма\bin\Debug\Форма.exe
+C:\Users\Admin\Desktop\учеба\ооп\Консольное\Форма\bin\Debug\Форма.pdb
+C:\Users\Admin\Desktop\учеба\ооп\Консольное\Форма\obj\Debug\Форма.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Desktop\учеба\ооп\Консольное\Форма\obj\Debug\Форма.Form1.resources
+C:\Users\Admin\Desktop\учеба\ооп\Консольное\Форма\obj\Debug\Форма.Properties.Resources.resources
+C:\Users\Admin\Desktop\учеба\ооп\Консольное\Форма\obj\Debug\Форма.csproj.GenerateResource.Cache
+C:\Users\Admin\Desktop\учеба\ооп\Консольное\Форма\obj\Debug\Форма.exe
+C:\Users\Admin\Desktop\учеба\ооп\Консольное\Форма\obj\Debug\Форма.pdb
+E:\лаба2\Форма\bin\Debug\Форма.exe.config
+E:\лаба2\Форма\obj\Debug\Форма.exe
+E:\лаба2\Форма\obj\Debug\Форма.pdb
+E:\лаба2\Форма\bin\Debug\Форма.exe
+E:\лаба2\Форма\bin\Debug\Форма.pdb
+E:\лаба2\Форма\obj\Debug\Форма.csprojResolveAssemblyReference.cache
+E:\лаба2\Форма\obj\Debug\Форма.Form1.resources
+E:\лаба2\Форма\obj\Debug\Форма.Properties.Resources.resources
+E:\лаба2\Форма\obj\Debug\Форма.csproj.GenerateResource.Cache
+C:\Users\Alexander.Idiatov\Desktop\лаба2\Форма\bin\Debug\Форма.exe.config
+C:\Users\Alexander.Idiatov\Desktop\лаба2\Форма\obj\Debug\Форма.exe
+C:\Users\Alexander.Idiatov\Desktop\лаба2\Форма\obj\Debug\Форма.pdb
+E:\Прикладное программирование\лаба2\Форма\bin\Debug\Форма.exe.config
+E:\Прикладное программирование\лаба2\Форма\obj\Debug\Форма.exe
+E:\Прикладное программирование\лаба2\Форма\obj\Debug\Форма.pdb
+E:\Прикладное программирование\лаба2\Форма\bin\Debug\Форма.exe
+E:\Прикладное программирование\лаба2\Форма\bin\Debug\Форма.pdb
+E:\Прикладное программирование\лаба2\Форма\obj\Debug\Форма.csprojResolveAssemblyReference.cache
+E:\Прикладное программирование\лаба2\Форма\obj\Debug\Форма.Form1.resources
+E:\Прикладное программирование\лаба2\Форма\obj\Debug\Форма.Properties.Resources.resources
+E:\Прикладное программирование\лаба2\Форма\obj\Debug\Форма.csproj.GenerateResource.Cache
+C:\Users\Alexander.Idiatov\Desktop\лаба2(mod)\Форма\bin\Debug\Форма.exe.config
+C:\Users\Alexander.Idiatov\Desktop\лаба2(mod)\Форма\obj\Debug\Форма.exe
+C:\Users\Alexander.Idiatov\Desktop\лаба2(mod)\Форма\obj\Debug\Форма.pdb
+C:\Users\Alexander.Idiatov\Desktop\лаба2(mod)\Форма\bin\Debug\Форма.exe
+C:\Users\Alexander.Idiatov\Desktop\лаба2(mod)\Форма\bin\Debug\Форма.pdb
+C:\Users\Alexander.Idiatov\Desktop\лаба2(mod)\Форма\obj\Debug\Форма.csprojResolveAssemblyReference.cache
+C:\Users\Alexander.Idiatov\Desktop\лаба2(mod)\Форма\obj\Debug\Форма.Form1.resources
+C:\Users\Alexander.Idiatov\Desktop\лаба2(mod)\Форма\obj\Debug\Форма.Properties.Resources.resources
+C:\Users\Alexander.Idiatov\Desktop\лаба2(mod)\Форма\obj\Debug\Форма.csproj.GenerateResource.Cache
+G:\Прикладное программирование\лаба2(mod2)\Форма\bin\Debug\Форма.exe.config
+G:\Прикладное программирование\лаба2(mod2)\Форма\obj\Debug\Форма.exe
+G:\Прикладное программирование\лаба2(mod2)\Форма\obj\Debug\Форма.pdb
+E:\Прикладное программирование\лаба2(mod2)\Форма\bin\Debug\Форма.exe.config
+E:\Прикладное программирование\лаба2(mod2)\Форма\obj\Debug\Форма.exe
+E:\Прикладное программирование\лаба2(mod2)\Форма\obj\Debug\Форма.pdb
+E:\Прикладное программирование\лаба2(mod2)\Форма\bin\Debug\Форма.exe
+E:\Прикладное программирование\лаба2(mod2)\Форма\bin\Debug\Форма.pdb
+E:\Прикладное программирование\лаба2(mod2)\Форма\obj\Debug\Форма.csprojResolveAssemblyReference.cache
+E:\Прикладное программирование\лаба2(mod2)\Форма\obj\Debug\Форма.Form1.resources
+E:\Прикладное программирование\лаба2(mod2)\Форма\obj\Debug\Форма.Properties.Resources.resources
+E:\Прикладное программирование\лаба2(mod2)\Форма\obj\Debug\Форма.csproj.GenerateResource.Cache
+C:\Users\Irina.Sedakova\Desktop\лаба2(mod2)\Форма\bin\Debug\Форма.exe.config
+C:\Users\Irina.Sedakova\Desktop\лаба2(mod2)\Форма\obj\Debug\Форма.exe
+C:\Users\Irina.Sedakova\Desktop\лаба2(mod2)\Форма\obj\Debug\Форма.pdb
